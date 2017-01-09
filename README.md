@@ -12,7 +12,7 @@ But this will save hours of your life.
 
 ## Firefox
 
-Install [Greasemonkey]([https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/). Then click [this link](https://raw.githubusercontent.com/naure/nope_fb/master/nope_facebook.user.js) and confirm the installation.
+Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/). Then click [this link](https://raw.githubusercontent.com/naure/nope_fb/master/nope_facebook.user.js) and confirm the installation.
 
 ## Chrome
 
