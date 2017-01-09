@@ -16,4 +16,4 @@ Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonk
 
 ## Chrome
 
-Drag [this link](https://raw.githubusercontent.com/naure/nope_fb/master/nope_fb.crx) onto the [chrome://extensions](chrome://extensions) page and confirm the installation.
+Download [this file](https://raw.githubusercontent.com/naure/nope_fb/master/nope_fb.crx), open the *Tools > Extensions* page, and drag the file onto the page.
