@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Nope facebook",
+  "description": "Go directly to messages, avoiding the feed time sink.",
+  "version": "1.0",
+  "icons": { "128": "icon.png"},
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/"],
+      "js": ["nope_facebook.user.js"]
+    }
+  ]
+}
